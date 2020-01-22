@@ -2416,17 +2416,22 @@
     "@styled-system/css" "^5.0.23"
     polished "^3.4.1"
 
-"@theme-ui/components@^0.2.50":
-  version "0.2.50"
-  resolved "https://registry.yarnpkg.com/@theme-ui/components/-/components-0.2.50.tgz#ce5e6f102f48964a5f999bf23755d6ea57d3faf5"
-  integrity sha512-mgFcV1GeGePyZh5TM8cOya5JyonxTqDLCk2zc/U4GP3C/6SdLORMD/e84MKyQfOA7AVO64i6jZ2v1wv8jScgAQ==
+"@theme-ui/components@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@theme-ui/components/-/components-0.3.0.tgz#3307bf4fb93a4e1bfe93c119e0158b3fcd8cfc56"
+  integrity sha512-F6UK2/vG3yM3fXDddJn1r0tEtJ8CQtJujXQR+tjbVIroKcYaHreM6LN1Mo7cgt+DOAoNQnRQOSynxlJnd7+rgw==
   dependencies:
     "@emotion/core" "^10.0.0"
     "@emotion/styled" "^10.0.0"
     "@styled-system/color" "^5.1.2"
-    "@styled-system/css" "^5.0.23"
     "@styled-system/should-forward-prop" "^5.1.2"
     "@styled-system/space" "^5.1.2"
+    "@theme-ui/css" "^0.3.0"
+
+"@theme-ui/css@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@theme-ui/css/-/css-0.3.0.tgz#458a09f2803f1ca417a784f849ce4d6ee01840db"
+  integrity sha512-+8dYdB1o+aU3L3WrirWzQpDzI+JSY/mK9c/a9tvh3FTWQ/MFnblhJa9qHggyEGBFjFSwD5a2mYJuxi+tTxmQkw==
 
 "@theme-ui/prism@^0.2.50":
   version "0.2.50"
