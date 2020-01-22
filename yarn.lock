@@ -2408,12 +2408,12 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@theme-ui/color@^0.2.53":
-  version "0.2.53"
-  resolved "https://registry.yarnpkg.com/@theme-ui/color/-/color-0.2.53.tgz#d4ac58b99639d1370c7e541bfeebb69f0036ca0c"
-  integrity sha512-Xz9146bG+tYZ9cJslAk1oq7hmlHmpso2bKLpjAW9O9382gWGNNoie44W0xi6XkVvDXtmnNei4nM/H5Wbtu9V0w==
+"@theme-ui/color@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@theme-ui/color/-/color-0.3.0.tgz#a2c318e1503dda0dc8c0c7e81402053f9b88fe91"
+  integrity sha512-SGa6cArQ+zxRrd6+DCIW9I71HRO8P5ZgeSBuvozuvqYfNjvxR5H/jhppAspXzjUYbdNs6hmaS35p5m81Z7fvrA==
   dependencies:
-    "@styled-system/css" "^5.0.23"
+    "@theme-ui/css" "^0.3.0"
     polished "^3.4.1"
 
 "@theme-ui/components@^0.2.50":
@@ -2427,6 +2427,11 @@
     "@styled-system/css" "^5.0.23"
     "@styled-system/should-forward-prop" "^5.1.2"
     "@styled-system/space" "^5.1.2"
+
+"@theme-ui/css@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@theme-ui/css/-/css-0.3.0.tgz#458a09f2803f1ca417a784f849ce4d6ee01840db"
+  integrity sha512-+8dYdB1o+aU3L3WrirWzQpDzI+JSY/mK9c/a9tvh3FTWQ/MFnblhJa9qHggyEGBFjFSwD5a2mYJuxi+tTxmQkw==
 
 "@theme-ui/prism@^0.2.50":
   version "0.2.50"
