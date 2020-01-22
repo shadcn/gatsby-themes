@@ -44,7 +44,7 @@
     "deepmerge": "^4.2.2",
     "gatsby-plugin-manifest": "^2.2.37",
     "gatsby-plugin-react-helmet": "^3.1.18",
-    "gatsby-plugin-theme-ui": "^0.2.43",
+    "gatsby-plugin-theme-ui": "^0.3.0",
     "is-relative-url": "^3.0.0",
     "lodash": "^4.17.15",
     "prop-types": "^15.7.2",
