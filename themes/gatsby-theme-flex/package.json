@@ -25,13 +25,13 @@
   },
   "peerDependencies": {
     "gatsby": "^2.21.11",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
   },
   "devDependencies": {
     "gatsby": "^2.21.11",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
   },
   "dependencies": {
     "@arshad/gatsby-theme-page-core": "^1.1.6",
