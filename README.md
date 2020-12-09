@@ -1,4 +1,4 @@
-## We are working on the next version of the Flex theme. See https://github.com/reflexjs/reflex
+## We are working on the next version of the Flex theme. See https://github.com/reflexjs/reflexjs
 
 <div align="center">
 <img src="./www/assets/images/logos.svg" width="300px" />
