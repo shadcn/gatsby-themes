@@ -94,7 +94,7 @@ To disable a core theme, run `yarn remove @arshad/gatsby-theme-name` and then re
 
 ## Support
 
-Need help? Create an issue on the main repo [@arshad/gatsby-themes](https://github.com/arshad/gatsby-themes/issues) or ask me [@arshadcn](https://twitter.com/arshadcn).
+Need help? Create an issue on the main repo [@arshad/gatsby-themes](https://github.com/shadcn/gatsby-themes/issues) or ask me [@shadcn](https://twitter.com/shadcn).
 
 ## License
 
