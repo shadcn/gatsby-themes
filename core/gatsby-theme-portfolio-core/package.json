@@ -42,7 +42,7 @@
     "gatsby-plugin-sharp": "^2.2.37",
     "gatsby-remark-images": "^3.1.30",
     "gatsby-source-filesystem": "^2.1.36",
-    "gatsby-transformer-remark": "^2.6.34",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.3.3",
     "prismjs": "^1.17.1"
   }
