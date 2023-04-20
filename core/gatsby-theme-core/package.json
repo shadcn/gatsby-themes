@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@sindresorhus/slugify": "^1.0.0",
-    "gatsby-plugin-sharp": "^2.3.4",
+    "gatsby-plugin-sharp": "^4.25.1",
     "gatsby-source-filesystem": "^2.1.39",
     "gatsby-transformer-sharp": "^2.3.6"
   }
