@@ -14,7 +14,7 @@
     "preview": "gatsby build && gatsby serve"
   },
   "devDependencies": {
-    "gatsby": "^2.21.11",
+    "gatsby": "^4.25.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
@@ -25,7 +25,7 @@
     "@arshad/gatsby-theme-photo-core": "^1.1.6",
     "@arshad/gatsby-theme-podcast-core": "^1.1.6",
     "@arshad/gatsby-theme-portfolio-core": "^1.1.6",
-    "gatsby": "^2.21.11",
+    "gatsby": "^4.25.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }

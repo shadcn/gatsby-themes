@@ -24,12 +24,12 @@
     "directory": "core/gatsby-theme-podcast-core"
   },
   "peerDependencies": {
-    "gatsby": "^2.21.11",
+    "gatsby": "^4.25.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "gatsby": "^2.21.11",
+    "gatsby": "^4.25.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },

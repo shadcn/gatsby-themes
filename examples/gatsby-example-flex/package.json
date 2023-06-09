@@ -14,12 +14,12 @@
     "preview": "gatsby build && gatsby serve"
   },
   "devDependencies": {
-    "gatsby": "^2.21.11",
+    "gatsby": "^4.25.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
   "dependencies": {
-    "gatsby": "^2.21.11",
+    "gatsby": "^4.25.7",
     "gatsby-theme-flex": "^0.4.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
